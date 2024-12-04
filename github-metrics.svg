@@ -235,7 +235,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="227.5113076284937" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="227.5113076284937" y="0" width="206.34839085507937" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="433.8596984835731" y="0" width="9.534404774975906" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="443.39410325854897" y="0" width="5.889314862935988" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.39410325854897" y="0" width="5.889314862935988" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="449.28341812148494" y="0" width="4.694160292305628" height="8" fill="#ff6347"/>
                     <rect mask="url(#languages-bar)" x="453.9775784137906" y="0" width="2.732633678585807" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="456.71021209237637" y="0" width="1.9061093218167844" height="8" fill="#e34c26"/>
@@ -262,7 +262,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -375,7 +375,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="157.20670773442845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="157.29158110882955 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -607,7 +607,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.42542542542542 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.73573573573574 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -630,12 +630,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 143k out of 211m repositories</span>
+                                    <span class="gh">ranked 142k out of 218m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">326</div>
+                                        <div class="value">328</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 326 stars</div>
+                                <div class="text">Maintaining a repository with 328 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -793,7 +793,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.77m out of 150m users</span>
+                                    <span class="gh">ranked 1.78m out of 150m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -931,7 +931,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 02:15:16 (timezone Europe/Tallinn) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 02:14:11 (timezone Europe/Tallinn) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
